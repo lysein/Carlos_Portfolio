@@ -5,10 +5,11 @@ Data Science Portfolio
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. Perform the data analysis to find answers to these questions that will help the company to improve the business.
 
 ### Skills and Tools
-Hypothesis Testing, a/b testing, Data Visualization, Statistical Inference
+Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), Python
 
 ## Project 2: Project Business Statistics: E-news Express
-The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. Suppose you are hired as a Data Scientist in this company and the Data Science team has shared some of the key questions that need to be answered. Perform the data analysis to find answers to these questions that will help the company to improve the business.
+This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analyzed in this project.
 
 ### Skills and Tools
-Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), Python
+Hypothesis Testing, a/b testing, Data Visualization, Statistical Inference, ANOVA
+
