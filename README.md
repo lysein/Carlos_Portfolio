@@ -3,7 +3,8 @@ Data Science Portfolio
 
 ## [Project 1: Survey Monkey Database](https://github.com/carlosarturoceron/Survey_Monkey)
 The client has collected demographic and employment data trough a survey, with multiple questions and subquestions, each question can have multiple answers. Client provides raw data and requirements for desired format, client needs to count how many people answered each question and how many gave the same answer. Original dataset is 198x100, final dataset is 17028x10.
-![alt text](image.jpg)
+![Raw Dataset](/images/Raw.jpg)
+![Final Output](/images/SM-output.jpg)
 
 ### Skills and Tools
 Data Manipulation, Joint, Merge, Groupby, Pandas
