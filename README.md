@@ -12,6 +12,8 @@ Data Manipulation, Joint, Merge, Groupby, Pandas
 ## [Project 2: FoodHub Data Analysis](https://github.com/carlosarturoceron/Foodhub_Project)
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyze the data to draw some actionable insights for the business. Perform the data analysis to find answers to these questions that will help the company to improve the business.
 
+[Business Presentation](https://drive.google.com/file/d/1YB0L7ZdyFBMT8UNEs5KHNeTE7utUcCKr/view?usp=sharing)
+
 ![](/images/Project2.jpg)  
 
 ### Skills and Tools
