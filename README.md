@@ -6,6 +6,7 @@ The client has collected demographic and employment data trough a survey, with m
 
 Raw:
 ![Raw Dataset](/images/Raw.JPG)
+
 Final:
 ![Final Output](/images/SM-Output.JPG)
 
