@@ -1,4 +1,8 @@
 # Carlos_Portfolio
+
+Hi! Here you can find the projects that I've been working trought my journey as an Odds/Kid. Yes, as you might have noticed, I am passionate about the DataScience world, but more so about decision making under uncertainty, about odds (probability), and the different methods to quatinfy uncertainty. 
+Contact: cceronlinares@gmail.com
+
 Data Science Portfolio
 
 ## [Project 1: Survey Monkey Database](https://github.com/carlosarturoceron/Survey_Monkey)
