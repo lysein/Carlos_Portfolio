@@ -6,7 +6,7 @@ The client has collected demographic and employment data trough a survey, with m
 
 ![Raw Dataset](/images/Raw.JPG)
 
-![Final Output](/images/SM-output.JPG)
+![Final Output](/images/SM-Output.JPG)
 
 ### Skills and Tools
 Data Manipulation, Joint, Merge, Groupby, Pandas
