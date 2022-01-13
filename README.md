@@ -26,6 +26,17 @@ Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Vari
 ## [Project 3: Business Statistics: E-news Express](https://github.com/carlosarturoceron/ENews_Express_Project)
 This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analyzed in this project.
 
+![](images/NewVSOld.JPG)
+
+The sample standard deviation of the time spent on the new page is: 1.82 min.
+
+The sample standard deviation of the time spent on the old page is: 2.58 min.
+
+In order to compate the means from 2 independent populations when standard deviations are unknown we wiil use a 2-sample-independent t-test. A
+As the p-value 0.000139 is less than the level of significance, we reject the null hypothesis. We have enough statistical data to support that the time spent by users in the new page is not equal to the old page. In fact, it is higher in the new page!
+
+[Business Presentation](https://drive.google.com/file/d/18AZm43BkgNsA55AIeeeBoPg-3kfZ7aXT/view?usp=sharing)
+
 ### Skills and Tools
 Hypothesis Testing, a/b testing, Data Visualization, Statistical Inference, ANOVA
 
