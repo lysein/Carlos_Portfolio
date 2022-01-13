@@ -40,3 +40,22 @@ As the p-value 0.000139 is less than the level of significance, we reject the nu
 ### Skills and Tools
 Hypothesis Testing, a/b testing, Data Visualization, Statistical Inference, ANOVA
 
+## [Project 4: Boston Housing Market](https://github.com/carlosarturoceron/ENews_Express_Project)
+To analyze the data and build a linear regression model that can predict the life expectancy of the people of a country.
+Key Questions:
+* Does life expectancy have a positive or negative correlation with the different factors (immunization, mortality, socio-economic, etc.) taken into consideration for the countries?
+* Can we build a linear model to predict life expectancy? If yes, how accurate will the model be?
+
+Visualization:
+
+![](images/Visualization.JPG)
+
+
+Observations:
+* The training R2 is 0.85, so the model is not underfitting.
+* The train and test RMSE and MAE are comparable, so the model is not overfitting either.
+* MAE suggests that the model can predict life expectancy within a mean error of 2.8 years on the test data.
+* MAPE of 4.3 on the test data means that we are able to predict within 4.3% of the life expectancy.
+
+### Skills and Tools
+Linear Regression, Model Tuning, Model Performance
