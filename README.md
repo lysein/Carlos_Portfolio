@@ -40,7 +40,7 @@ As the p-value 0.000139 is less than the level of significance, we reject the nu
 ### Skills and Tools
 Hypothesis Testing, a/b testing, Data Visualization, Statistical Inference, ANOVA
 
-## [Project 4: Life Expectancy Model](https://github.com/carlosarturoceron/ENews_Express_Project)
+## [Project 4: Life Expectancy Model]()
 To analyze the data and build a linear regression model that can predict the life expectancy of the people of a country.
 Key Questions:
 * Does life expectancy have a positive or negative correlation with the different factors (immunization, mortality, socio-economic, etc.) taken into consideration for the countries?
