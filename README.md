@@ -66,15 +66,6 @@ Buying and selling used phones and tablets used to be something that happened on
 
 The rising potential of this comparatively under-the-radar market fuels the need for an ML-based solution to develop a dynamic pricing strategy for used and refurbished devices. ReCell, a startup aiming to tap the potential in this market, wants you to analyze the data provided and build a linear regression model to predict the price of a used phone/tablet and identify factors that significantly influence it.
 
-Key Questions:
-* Does life expectancy have a positive or negative correlation with the different factors (immunization, mortality, socio-economic, etc.) taken into consideration for the countries?
-* Can we build a linear model to predict life expectancy? If yes, how accurate will the model be?
-
-Visualization:
-
-![](images/Visualization.JPG)
-
-
 [Business Presentation](https://drive.google.com/drive/u/0/folders/10by5yXJLjvqHsNKdjbYyLPwGDvjcJ6kg)
 
 Observations:
@@ -83,7 +74,7 @@ Observations:
 * We should avoid devices with an OS that is not Android or IOs.
 * 93% of devices studied in this dataset run Android as operating system
 
-![image](images/ReCellModel.png)
+![](images/ReCellModel.png)
 
 ### Skills and Tools
 Linear Regression, Model Tuning, Model Performance
