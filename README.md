@@ -66,15 +66,15 @@ Buying and selling used phones and tablets used to be something that happened on
 
 The rising potential of this comparatively under-the-radar market fuels the need for an ML-based solution to develop a dynamic pricing strategy for used and refurbished devices. ReCell, a startup aiming to tap the potential in this market, wants you to analyze the data provided and build a linear regression model to predict the price of a used phone/tablet and identify factors that significantly influence it.
 
-[Business Presentation](https://drive.google.com/drive/u/0/folders/10by5yXJLjvqHsNKdjbYyLPwGDvjcJ6kg)
+[Business Presentation](https://drive.google.com/file/d/1fvzSZX7njYS3KRNu7UhVXL4aRPrQ3W3Q/view?usp=sharing)
+
+![](images/ReCellModel.png)
 
 Observations:
 * Model can explain 84% of the variance in the resale price of a device.
 * We can predict the resale price of a device within $19.25 if we know its features.
 * We should avoid devices with an OS that is not Android or IOs.
 * 93% of devices studied in this dataset run Android as operating system
-
-![](images/ReCellModel.png)
 
 ### Skills and Tools
 Linear Regression, Model Tuning, Model Performance
