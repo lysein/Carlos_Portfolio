@@ -6,7 +6,9 @@ Contact: cceronlinares@gmail.com
 Data Science Portfolio
 
 ## [Business Intelligence Dashboards](https://drive.google.com/file/d/1djQdAdk64jSRLj9DtKWHY7Ynhvai76Kr/view?usp=sharing)
-The client has collected demographic and employment data through a survey, with multiple questions and sub questions, each question can have multiple answers. Client provides raw data and requirements for desired format; client needs to count how many people answered each question and how many gave the same answer. Original dataset is 198x100, final dataset is 17028x10.
+Demonstration of the capabilities of PowerBI applied to Client History, Internal Audit, Expense Analysis and Basic Banking Analytics.
+
+![](/images/Dashboards.png)
 
 [Examples](https://drive.google.com/file/d/1djQdAdk64jSRLj9DtKWHY7Ynhvai76Kr/view?usp=sharing)
 
