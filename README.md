@@ -5,6 +5,14 @@ Contact: cceronlinares@gmail.com
 
 Data Science Portfolio
 
+## [Business Intelligence Dashboards](https://drive.google.com/file/d/1djQdAdk64jSRLj9DtKWHY7Ynhvai76Kr/view?usp=sharing)
+The client has collected demographic and employment data through a survey, with multiple questions and sub questions, each question can have multiple answers. Client provides raw data and requirements for desired format; client needs to count how many people answered each question and how many gave the same answer. Original dataset is 198x100, final dataset is 17028x10.
+
+[Examples](https://drive.google.com/file/d/1djQdAdk64jSRLj9DtKWHY7Ynhvai76Kr/view?usp=sharing)
+
+### Skills and Tools
+Visualization, PowerBI, Analytics, Business Intelligence
+
 ## [Project 1: Survey Monkey Database](https://github.com/carlosarturoceron/Survey_Monkey)
 The client has collected demographic and employment data through a survey, with multiple questions and sub questions, each question can have multiple answers. Client provides raw data and requirements for desired format; client needs to count how many people answered each question and how many gave the same answer. Original dataset is 198x100, final dataset is 17028x10.
 
