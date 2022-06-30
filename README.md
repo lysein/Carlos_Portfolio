@@ -23,7 +23,7 @@ The client has collected demographic and employment data through a survey, with 
 ### Skills and Tools
 Data Manipulation, Joint, Merge, Groupby, Pandas
 
-## [Project 2: FoodHub Data Analysis](https://github.com/carlosarturoceron/Foodhub_Project)
+## [Project 2: FoodHub Data Analysis]()
 The food aggregator company has stored the data of the different orders made by the registered customers in their online portal. They want to analyse the data to draw some actionable insights for the business. Perform the data analysis to find answers to these questions that will help the company to improve the business.
 
 [Business Presentation](https://drive.google.com/file/d/1YB0L7ZdyFBMT8UNEs5KHNeTE7utUcCKr/view?usp=sharing)
@@ -33,7 +33,7 @@ The food aggregator company has stored the data of the different orders made by 
 ### Skills and Tools
 Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), Python
 
-## [Project 3: Business Statistics: E-news Express](https://github.com/carlosarturoceron/ENews_Express_Project)
+## [Project 3: Business Statistics: E-news Express]()
 This project used statistical analysis, a/b testing, and visualization to decide whether the new landing page of an online news portal (E-news Express) is effective enough to gather new subscribers or not. The simulated dataset has certain important metrics such as converted status and time spent on the page that will help to conclude the effectiveness of the new landing page. Apart from that, the dependence of conversion on the preferred language will also be analysed in this project.
 
 ![](images/NewVSOld.JPG)
@@ -71,7 +71,7 @@ Observations:
 ### Skills and Tools
 Linear Regression, Model Tuning, Model Performance
 
-## [Project 5: ReCell](https://github.com/carlosarturoceron/ReCell)
+## [Project 5: ReCell]()
 Buying and selling used phones and tablets used to be something that happened on a handful of online marketplace sites. But the used and refurbished device market has grown considerably over the past decade, and a new IDC (International Data Corporation) forecast predicts that the used phone market would be worth $52.7bn by 2023 with a compound annual growth rate (CAGR) of 13.6% from 2018 to 2023. This growth can be attributed to an uptick in demand for used phones and tablets that offer considerable savings compared with new models.
 
 The rising potential of this comparatively under-the-radar market fuels the need for an ML-based solution to develop a dynamic pricing strategy for used and refurbished devices. ReCell, a startup aiming to tap the potential in this market, wants you to analyze the data provided and build a linear regression model to predict the price of a used phone/tablet and identify factors that significantly influence it.
